@@ -1,1 +1,1 @@
-console.log("test");
+(()=>{"use strict";(()=>{const e=document.createElement("div");e.innerText="yooo!",document.getElementById("content").appendChild(e)})()})();

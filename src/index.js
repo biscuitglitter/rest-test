@@ -1,1 +1,4 @@
-console.log("test")
+import { addContent } from './myownmodule';
+
+addContent()
+
