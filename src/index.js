@@ -1,4 +1,5 @@
-import { addContent } from './myownmodule';
+import { addHeader } from './myHeader';
+import "./style.css"
 
-addContent()
+addHeader()
 
